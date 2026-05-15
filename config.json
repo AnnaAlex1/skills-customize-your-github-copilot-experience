@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-python",
+      "title": "Introduction to Databases with SQLite and Python",
+      "description": "Design schemas and perform CRUD queries using SQLite from Python.",
+      "path": "assignments/sqlite-python",
+      "dueDate": "2026-06-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Schema",
+          "file": "schema.sql",
+          "type": "sql"
+        }
+      ]
     }
   ]
 }
